@@ -29,7 +29,7 @@ cd reactJS-golang-todo-app
 2. Install frontend dependencies:
 
 ```bash
-cd frontend
+cd client
 npm install
 ```
 
@@ -42,7 +42,7 @@ npm run build
 4. Set up and run the backend:
 
 ```bash
-cd ../backend
+cd ../server
 go run main.go
 ```
 
